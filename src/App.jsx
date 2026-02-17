@@ -35,7 +35,7 @@ function App() {
           </p>
           <div className=" flex gap-4 items-center ">
             <a
-              href="/portofolio/cv.pdf"
+              href="/portofolio/cv.pdf" target="_blank"
               className="bg-red-700 text-white font-semibold hover:bg-zinc-600 p-4 m-3 rounded-2xl"
             >
               <i class="ri-download-line"></i> Download CV
