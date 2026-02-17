@@ -134,7 +134,7 @@ function App() {
             {/* Card 1 */}
             <div className="bg-white rounded-2xl shadow-lg p-5 hover:scale-105 transition max-w-sm">
               <img
-                src="/assets/walidhani-ttd.png"
+                src="/public/assets/walidhani-ttd.png"
                 alt="Sertifikat CyberLabs"
                 className="rounded-xl mb-6 w-full"
               />
@@ -146,7 +146,7 @@ function App() {
               </p>
 
               <a
-                href="/assets/walidhani-ttd.png"
+                href="/public/assets/walidhani-ttd.png"
                 target="_blank"
                 className="bg-red-500 font-bold text-white px-5 py-2 rounded-lg inline-block text-sm"
               >
@@ -157,7 +157,7 @@ function App() {
             {/* Card 2 */}
             <div className="bg-white rounded-2xl shadow-lg p-5 hover:scale-105 transition max-w-sm">
               <img
-                src="/assets/serti.jpg"
+                src="/public/assets/serti.jpg"
                 alt="Sertifikat SMK"
                 className="rounded-xl mb-6 w-full"
               />
@@ -169,7 +169,7 @@ function App() {
               </p>
 
               <a
-                href="/assets/serti.jpg"
+                href="/public/assets/serti.jpg"
                 target="_blank"
                 className="bg-red-500 font-bold text-white px-5 py-2 rounded-lg inline-block text-sm"
               >
