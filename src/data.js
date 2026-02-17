@@ -124,7 +124,7 @@ export const listTools = [
 
 import Proyek1 from "/assets/proyek/home tasty.png";
 import Proyek2 from "/assets/proyek/kasir.png";
-import Proyek3 from "/assets/proyek/proyek3.webp";
+import Proyek3 from "/assets/porto.png";
 
 
 export const listProyek = [
@@ -148,7 +148,7 @@ export const listProyek = [
     id: 3,
     gambar: Proyek3,
     nama: "Website Portofolio",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+    desk: "Webiste Portofolio yang menjelaskan sedikit tentang diri saya",
     tools: ["Vite", "ReactJS", "TailwindCSS", "AOS"],
     dad: "400",
   }
