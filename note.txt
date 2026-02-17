@@ -1,0 +1,75 @@
+tentang 
+ {/* <div className="flex items-center gap-6">
+              <div>
+                <h1 className="text-4xl mb-1">
+                  45<span className="text-red-600 ">+</span>
+                </h1>
+                <p className="font-semibold">Proyek selesai</p>
+              </div>
+              <div>
+                <h1 className="text-4xl mb-1">
+                  4<span className="text-red-600">+</span>
+                </h1>
+                <p className="font-semibold">Tahun pengalaman</p>
+              </div>
+            </div> */}
+
+              {/* kontak */}
+      {/* <div
+        className="kontak mt-32 py-10 flex justify-center items-center min-h-screen bg-zinc-900 px-4"
+        id="kontak"
+      >
+        <div className="bg-zinc-800 p-10 rounded-2xl shadow-xl w-full max-w-md">
+          <h1 className="text-4xl font-bold text-center text-white mb-2">
+            KONTAK
+          </h1>
+          <p className="text-center text-zinc-400 mb-8">Hubungi Saya</p>
+
+          <form
+            action="https://formsubmit.co/faturwali06@gmail.com"
+            method="post"
+            className="flex flex-col gap-6"
+            autoComplete="off"
+          >
+            <div className="flex flex-col gap-2">
+              <label className="text-white font-semibold">Nama Lengkap</label>
+              <input
+                type="text"
+                name="nama"
+                placeholder="Masukkan Nama..."
+                className="bg-transparent border border-zinc-600 rounded-xl px-4 py-3 text-white placeholder-zinc-500 focus:outline-none focus:border-red-600 transition"
+                required
+              />
+            </div>
+
+            <div className="flex flex-col gap-2">
+              <label className="text-white font-semibold">Email</label>
+              <input
+                type="email"
+                name="email"
+                placeholder="Masukkan Email..."
+                className="bg-transparent border border-zinc-600 rounded-xl px-4 py-3 text-white placeholder-zinc-500 focus:outline-none focus:border-red-600 transition"
+                required
+              />
+            </div>
+
+            <div className="flex flex-col gap-2">
+              <label className="text-white font-semibold">Pesan</label>
+              <textarea
+                name="pesan"
+                rows="5"
+                placeholder="Pesan..."
+                className="bg-transparent border border-zinc-600 rounded-xl px-4 py-3 text-white placeholder-zinc-500 resize-none focus:outline-none focus:border-red-600 transition"
+                required
+              ></textarea>
+            </div>
+
+            <button
+              type="submit"
+              className="bg-red-700 hover:bg-red-800 text-white font-semibold py-3 rounded-xl mt-2 transition"
+            >
+              Kirim Pesan
+            </button>
+          </form>
+        </div>
+      </div> */}
